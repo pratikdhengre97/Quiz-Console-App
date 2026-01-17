@@ -27,10 +27,5 @@ Quiz Console App
 - Arrays of objects
 - Method overriding
 - Console-based applications
-## Future Enhancements
-- Add score calculation
-- Accept user input
-- Add timer
-- Store questions in file or database
 ## Author
 Pratik Dhengre
